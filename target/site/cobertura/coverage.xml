@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+
+<coverage line-rate="1.0" branch-rate="1.0" lines-covered="2" lines-valid="2" branches-covered="0" branches-valid="0" complexity="1.0" version="2.0.3" timestamp="1481885615407">
+	<sources>
+		<source>C:/Users/PC-/Desktop/Projet Maven/NumberGenerator/src/main/java</source>
+		<source>--source</source>
+	</sources>
+	<packages>
+		<package name="com.project" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="com.project.Calcul" filename="com/project/Calcul.java" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="3" hits="2" branch="false"/>
+							</lines>
+						</method>
+						<method name="add" signature="(II)I" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="8" hits="2" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="3" hits="2" branch="false"/>
+						<line number="8" hits="2" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
